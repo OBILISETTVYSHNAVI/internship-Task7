@@ -1,12 +1,12 @@
 # internship-Task7
 Internship
 
- K-Nearest Neighbors Classification on Iris Dataset
+ # K-Nearest Neighbors Classification on Iris Dataset
 
-     Aim:
+##  Aim:
 To implement a K-Nearest Neighbors (KNN) classifier on the Iris dataset to classify iris flowers into species (Setosa, Versicolor, Virginica) based on their petal and sepal features.
 
- Guidelines and Elaborated Procedure:
+##  Guidelines and Elaborated Procedure:
 
 ### 1. Import Required Libraries
 Start by importing essential Python libraries:
@@ -47,4 +47,4 @@ Use `load_iris()` from `sklearn.datasets` to load the Iris dataset, which includ
 ### 8. Save the Output (Optional)
 - Save the modified or predicted dataset using `df.to_csv()` for further use or documentation.
 
-> This entire workflow ensures a structured approach to solving a classification problem using K-Nearest Neighbors and allows effective evaluation using both quantitative metrics and visualizations.
+  This entire workflow ensures a structured approach to solving a classification problem using K-Nearest Neighbors and allows effective evaluation using both quantitative metrics and visualizations.
